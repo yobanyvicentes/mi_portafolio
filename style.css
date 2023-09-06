@@ -1,0 +1,46 @@
+/*body*/
+.body {
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+
+/*div yobanyvicentes*/
+#yobanyvicentes {
+    margin-top: 100px;
+}
+
+.picture-50-50 {
+    height: 200px;
+    width: 240px;
+}
+
+.abs-center {
+    text-align: center;
+}
+
+#cvs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer {
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+/*cv*/
+
+.cv-div {
+    margin-bottom: 0px;
+}
+
+.cv-card {
+    background-color: whitesmoke;
+    margin: 10px;
+    text-align: center;
+    color: black;
+}
+
+
