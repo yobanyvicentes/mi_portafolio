@@ -45,6 +45,12 @@
     display: inline-flexbox;
 }
 
+.skills p{
+    width: 100%;
+    text-align: center;
+    display: inline-flexbox;
+}
+
 /*cv*/
 
 .cv-div {
