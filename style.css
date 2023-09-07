@@ -48,3 +48,9 @@
 .gif {
     width: 100%;
 }
+
+
+/*footer*/
+footer div p {
+    margin-bottom: 0rem;
+}
