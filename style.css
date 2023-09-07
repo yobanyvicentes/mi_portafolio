@@ -5,6 +5,21 @@
     text-align: justify;
 }
 
+.div-reference {
+    text-align: center;
+    padding: 30px;
+}
+
+.div-reference img {
+    width: 50%;
+    height: 10px;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+
 /*div yobanyvicentes*/
 #yobanyvicentes {
     margin-top: 100px;
@@ -36,7 +51,7 @@
     text-align: center;
     color: black;
     border-radius: 1rem;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0rem;
 }
 
 
@@ -51,9 +66,23 @@
     background-color: rgb(51, 51, 51);
     text-align: center;
     color: white;
-    padding: 100px  ;
+    padding: 50px  ;
 }
 
 footer div p {
     margin-bottom: 0rem;
+}
+
+.nav-footer{
+    list-style: none;
+    display: inline-flex;
+    gap: 100rm;
+}
+
+.nav-footer li{
+    padding: 10px;
+}
+
+.nav-footer li a{
+    color: white;
 }
