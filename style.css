@@ -11,7 +11,7 @@
 }
 
 .div-reference img {
-    width: 50%;
+    width: 80%;
     height: 10px;
 }
 
@@ -37,6 +37,11 @@
 #cvs {
     display: flex;
     flex-wrap: wrap;
+}
+
+.skills {
+    width: 100%;
+    text-align: center;
 }
 
 /*cv*/
