@@ -51,6 +51,26 @@
     display: inline-flexbox;
 }
 
+/*skills and tools*/
+
+.tool {
+    text-align: center;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.b-white {
+    background-color: white;
+}
+
+.tool p {
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+}
+
 /*cv*/
 
 .cv-div {
@@ -98,3 +118,4 @@ footer div p {
 .nav-footer li a{
     color: white;
 }
+
