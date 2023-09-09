@@ -71,8 +71,16 @@
     margin-top: 1rem;
 }
 
-/*cv*/
+/*portafolio*/
+.gif {
+    width: 100%;
+}
 
+.sub {
+    text-align: center;
+}
+
+/*cv*/
 .cv-div {
     margin-bottom: 0px;
 }
@@ -84,12 +92,6 @@
     color: black;
     border-radius: 1rem;
     padding: 0.5rem 0rem;
-}
-
-
-/*portafolio*/
-.gif {
-    width: 100%;
 }
 
 
